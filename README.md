@@ -1,13 +1,3 @@
-##### 作者其他文章推荐：
-[tech-article](https://github.com/qq326646683/tech-article)
-
-##### 正文：
-线上项目应用运行效果：
-http://file.jinxianyun.com/tencentplayer.MP4
-
-demo apk：
-http://file.jinxianyun.com/flutter_tencentplayer_1_2_0.apk
-
 demo功能：
 
 ![图片](http://file.jinxianyun.com/tencentplayer_1_2_0preview.png)
